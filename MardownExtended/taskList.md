@@ -1,0 +1,3 @@
+- [x] Wrie the press release
+- [ ] Update the Website
+- [ ] Contact the media
